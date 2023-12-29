@@ -1,1 +1,2 @@
-# Far-field-speckle-generation
+# Far-field-speckle-generation 
+Speckles are granular patterns produced when highly coherent light interacts with a diffuser or passes through a random medium, that vary on the scale of wavelength. Speckles can be easily simulated by modeling the general setup. Light is passed through a randum diffuser via an aperture, and the far field pattern observed, or the pattern observed in a 4f setup is the fraunhofer diffraction pattern of the field got after passing through diffuser. 
